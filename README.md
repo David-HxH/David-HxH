@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./pcWorker.gif" width="400"/>
+  <img src="./pcWorker.gif" width="350"/>
 </p>
 
 ## 🧠 Tecnologías y herramientas
