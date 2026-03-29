@@ -1,13 +1,14 @@
-# 👋 Hola, soy desarrollador Fullstack Junior
+<h1 align="center">👋 Hola, soy David Mondaca</h1>
+<h3 align="center">Desarrollador Fullstack Junior</h3>
 
-💻 Desarrollador enfocado en la construcción de aplicaciones web modernas, con experiencia en frontend y backend.
-🚀 Interesado en seguir creciendo en desarrollo backend, arquitectura de software y buenas prácticas.
+<p align="center">
+💻 Desarrollador enfocado en la construcción de aplicaciones web modernas <br>
+🚀 Interesado en desarrollo backend, arquitectura de software y buenas prácticas
+</p>
 
 <p align="center">
   <img src="./pcWorker.gif" width="400"/>
 </p>
-
----
 
 ## 🧠 Tecnologías y herramientas
 
@@ -55,3 +56,8 @@
 Seguir desarrollando proyectos que me permitan mejorar mis habilidades técnicas y aportar valor en equipos de desarrollo.
 
 ---
+
+📫 Contacto
+
+* Email: David_ems@live.cl
+* linkedin: https://www.linkedin.com/in/davidmondacasaavedra/
