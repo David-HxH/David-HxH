@@ -1,4 +1,4 @@
-# 👋 Hola, soy desarrollador Fullstack Junior
+# <h1 align="center">👋 Hola, soy David Mondaca desarrollador Fullstack Junior</h1>
 
 💻 Desarrollador enfocado en la construcción de aplicaciones web modernas, con experiencia en frontend y backend.
 🚀 Interesado en seguir creciendo en desarrollo backend, arquitectura de software y buenas prácticas.
@@ -6,8 +6,6 @@
 <p align="center">
   <img src="./pcWorker.gif" width="400"/>
 </p>
-
----
 
 ## 🧠 Tecnologías y herramientas
 
