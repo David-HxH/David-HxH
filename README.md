@@ -59,5 +59,5 @@ Seguir desarrollando proyectos que me permitan mejorar mis habilidades técnicas
 
 📫 Contacto
 
-Email: David_ems@live.cl
-linkedin: https://www.linkedin.com/in/davidmondacasaavedra/
+* Email: David_ems@live.cl
+* linkedin: https://www.linkedin.com/in/davidmondacasaavedra/
