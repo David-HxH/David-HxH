@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./pcWorker.gif" width="450"/>
+  <img src="./pcWorker.gif" width="400"/>
 </p>
 
 ## 🧠 Tecnologías y herramientas
@@ -56,3 +56,8 @@
 Seguir desarrollando proyectos que me permitan mejorar mis habilidades técnicas y aportar valor en equipos de desarrollo.
 
 ---
+
+📫 Contacto
+
+Email: David_ems@live.cl
+linkedin: https://www.linkedin.com/in/davidmondacasaavedra/
