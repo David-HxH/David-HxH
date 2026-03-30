@@ -10,44 +10,28 @@
   <img src="./pcWorker.gif" width="350"/>
 </p>
 
-## 🧠 Tecnologías y herramientas
-
-### 🌐 Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-### ⚙️ Backend
-
-* Node.js
-* Express
-* WebSockets
-* Cron jobs
-
-### 🗄️ Bases de datos
-
-* MySQL
-* PostgreSQL
-
-### 🛠️ Herramientas
-
-* Visual Studio Code
-* Git & GitHub
-
-### 📱 Otros conocimientos
-
-* Java (básico)
-* Android Studio (básico)
-
 ---
 
 ## 📌 Sobre mí
+Soy un desarrollador fullstack junior con experiencia en la creación de aplicaciones web utilizando tecnologías como Node.js, Express y bases de datos relacionales. Me apasiona aprender nuevas tecnologías y mejorar mis habilidades técnicas para contribuir a proyectos desafiantes. Estoy comprometido con el desarrollo de software de calidad y la colaboración efectiva en equipos de trabajo.
 
-* 🎯 Perfil: Fullstack Junior
-* 🧩 Interesado en backend y lógica de negocio
-* 📚 Aprendiendo constantemente nuevas tecnologías
-* ⚡ Enfocado en escribir código limpio y mantenible
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -57,7 +41,13 @@ Seguir desarrollando proyectos que me permitan mejorar mis habilidades técnicas
 
 ---
 
-📫 Contacto
+## 📫 Contacto
 
-* Email: David_ems@live.cl
-* linkedin: https://www.linkedin.com/in/davidmondacasaavedra/
+<p align="center">
+  <a href="mailto:David_ems@live.cl">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davidmondacasaavedra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
