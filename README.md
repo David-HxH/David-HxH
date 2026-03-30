@@ -42,8 +42,8 @@ Soy un desarrollador fullstack junior con experiencia en la creación de aplicac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=David-HxH&show_icons=true&theme=tokyonight"/>
-  <br/>
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=David-HxH&show_icons=true&theme=tokyonight"/>
+  <br/> -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=David-HxH&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -60,9 +60,7 @@ Soy un desarrollador fullstack junior con experiencia en la creación de aplicac
 
 ## 📫 Contacto
 
-## 🔗 Puedes visitar mi portafolio aquí:
-
-👉 **https://portafolio-david-mondaca.vercel.app/**
+## 🔗 Puedes visitar mi portafolio aquí: **https://portafolio-david-mondaca.vercel.app/**
 
 <p align="center">
   <a href="mailto:David_ems@live.cl">
